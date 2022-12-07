@@ -1,0 +1,16 @@
+#video{
+  width:100%;
+}
+h1{
+  color:deepskyblue;
+  font-size: 40px;
+}
+body{
+  background-color:lightgrey;
+  padding-left:500px;
+  padding-right:500px;
+  max-width: 1400px;
+}
+#余白{
+  font-size: 150px;
+}
